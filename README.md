@@ -63,7 +63,7 @@ Language: Python
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ai-powered-smart-tutor.git
+git clone https://github.com/sanskarkumar109/Ai_powered_smart_tutor.git
 
 cd ai-powered-smart-tutor
 
