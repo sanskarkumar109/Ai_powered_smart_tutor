@@ -1,0 +1,14 @@
+streamlit
+openai
+fpdf2
+jinja2
+markdown2
+pdfkit
+wkhtmltopdf
+groq 
+pillow
+faiss-cpu 
+sentence-transformers 
+langchain-community 
+pypdf 
+
